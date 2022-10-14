@@ -1,0 +1,1 @@
+d-i partman-auto/choose_recipe select atomic
